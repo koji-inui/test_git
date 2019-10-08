@@ -23,7 +23,7 @@ pngなのかも未定。
     
         ```json
         {
-          "total": 43,
+          "total": 4,
           "urls_s3": [
             "s3://bellface-sdp-infra-dev/sceen-pickup/{meeting_id}-{second}.png",
             "s3://bellface-sdp-infra-dev/sceen-pickup/{meeting_id}-{second}.png",
